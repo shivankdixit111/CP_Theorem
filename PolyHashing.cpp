@@ -1,5 +1,4 @@
-#include <bits/stdc++.h>
-#pragma GCC optimize("O3") // O3 or we may time out :(
+#include <bits/stdc++.h> 
 using namespace std;  
  
 // lc
