@@ -45,11 +45,3 @@ class PolyHash {
             return get_hash(l,r) == get_hash_rev(l,r);
         }
 };
-
-
- 
- 
- 
- 
-
- 
